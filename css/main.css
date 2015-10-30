@@ -206,8 +206,6 @@ nav a:hover, #menu .current_page_item a {
 /* Content */
 
 main {
-    float: right;
-    width: 660px;
     padding: 0px 0px 0px 0px;
 }
 
@@ -280,8 +278,6 @@ main {
 
 /* Sidebar */
 aside {
-    float: left;
-    width: 270px;
     margin: 0px;
     padding: 30px 0px 0px 0px;
 }
