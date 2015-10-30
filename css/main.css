@@ -192,6 +192,12 @@ nav a {
         width: 49%;
     }
 }
+@media all and (min-width: 850px) {
+    nav li {
+        display: inline-block;
+        width: calc(100% / 3);
+    }
+}
 /* Page */
 
 #page {
