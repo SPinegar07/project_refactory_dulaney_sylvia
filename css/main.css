@@ -50,7 +50,7 @@ a {
 /* Header */
 
 #header-wrapper {
-    overflow: hidden;
+    margin-left: 10px;
 }
 
 header {
@@ -74,7 +74,6 @@ header {
 }
 
 #logo h1 {
-    line-height: 120px;
     letter-spacing: -2px;
     font-size: 3.8em;
 }
@@ -107,8 +106,6 @@ header {
 /* Splash */
 
 #splash {
-    width: 960px;
-    height: 300px;
     margin: 0px auto;
 }
 
@@ -117,12 +114,10 @@ header {
 #search {
     float: right;
     width: 280px;
-    height: 60px;
     padding: 20px 0px 0px 0px;
 }
 
 #search form {
-    height: 41px;
     margin: 0;
     padding: 10px 0 0 20px;
 }
@@ -145,7 +140,6 @@ header {
 
 #search-submit {
     width: 50px;
-    height: 22px;
     border: none;
     background: #B9B9B9;
     color: #000000;
@@ -197,7 +191,7 @@ main {
 }
 
 .post {
-    overflow: hidden;
+    margin-left: 10px;
     margin-bottom: 40px;
     border-bottom: 1px solid #E7EBED;
 }
@@ -265,7 +259,7 @@ main {
 
 /* Sidebar */
 aside {
-    margin: 0px;
+    margin-left: 10px;
     padding: 30px 0px 0px 0px;
 }
 aside ul {
@@ -285,7 +279,6 @@ aside li ul {
 }
 
 aside li li {
-    line-height: 40px;
     border-bottom: 1px solid #E7EBED;
     margin: 0px 0px;
     border-left: none;
@@ -304,7 +297,6 @@ aside li li a {
 }
 
 aside h2 {
-    height: 38px;
     padding: 0px 0px 30px 0px;
     letter-spacing: -.5px;
     font-size: 1.8em;
@@ -328,7 +320,6 @@ aside a:hover {
 /* Three Column Footer Content */
 
 #footer-content {
-    overflow: hidden;
     width: 100%;
     margin: 0px auto;
     color: #D6E2F0;
@@ -339,7 +330,6 @@ aside a:hover {
 }
 
 #footer-bg {
-    overflow: hidden;
     padding: 30px 0px;
     background: #E8E8E8;
 }
@@ -391,7 +381,6 @@ aside a:hover {
 /* Footer */
 
 footer {
-    height: 140px;
     margin: 0 auto;
     padding: 50px 0 15px 0;
     font-family: 'Abel', sans-serif;
@@ -413,7 +402,6 @@ footer a {
 }
 
 #marketing {
-    overflow: hidden;
     margin-bottom: 30px;
     padding: 20px 0px 10px 0px;
     border-top: 1px solid #E7EBED;
@@ -437,7 +425,6 @@ footer a {
 #marketing .text2 a {
     display: block;
     width: 252px;
-    height: 38px;
     padding: 15px 0px 0px 0px;
     background: url(../img/img07.jpg) no-repeat left top;
     letter-spacing: -2px;
