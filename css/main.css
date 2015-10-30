@@ -110,7 +110,9 @@ header {
     text-decoration: none;
     color: #000000;
 }
-
+.site-container {
+    max-width= 1200px;
+}
 /* Splash */
 
 #splash {
