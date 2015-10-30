@@ -204,6 +204,13 @@ nav a {
         width: calc(100% / 5);
     }
 }
+
+@media (min-width) (min-width: 950px)   {
+    main    {
+        float: right;
+        width: calc(100% / 3 * 2);
+    }
+}
 /* Page */
 
 #page {
